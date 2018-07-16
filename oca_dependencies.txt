@@ -3,4 +3,4 @@ server-ux
 community-data-files
 partner-contact
 account-financial-tools
-server-tools
+server-tools https://github.com/janverb/server-tools.git 11.0-use-acme-client
